@@ -46,7 +46,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency 'oj', '~> 3.10'
   s.add_dependency 'multi_json', '~> 1.14'
-  s.add_dependency 'rest-client', '~> 2.0'
+  s.add_dependency 'rest-client', '~> 2.0.2'
   s.add_dependency 'addressable', '~> 2.7'
   s.add_dependency 'oauth2-client', '~> 2.0'
 
